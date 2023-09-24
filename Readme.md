@@ -1,5 +1,5 @@
 # Hi there :wave:
-- I am a Software engineer specializing in :snake: Python backend programming
+- I am a Software engineer specializing in :snake: Python 
 - Currently, I'm working in the CloudLinux company and doing something great
 
 <a href="https://www.linkedin.com/in/viktorlegostaev/">
